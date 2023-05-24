@@ -34,7 +34,7 @@ export const Nav = () => {
             alt="Netflix logo"
             src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png"
             className="nav_logo"
-            onClick={() => window.location.href = "/"}
+            onClick={() => window.location.href = "/react-netflix"}
             style={{width:"150px", height : "60px", cursor : "pointer"}}
         />
 
